@@ -1,5 +1,4 @@
 # Password Generator
-
 Generates a secure random password with letters, digits, and symbols.
 
 ## Features
@@ -7,6 +6,4 @@ Generates a secure random password with letters, digits, and symbols.
 - Uses uppercase, lowercase, numbers, and symbols
 
 ## How to Run
-```
 python password_generator.py
-```
