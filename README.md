@@ -1,12 +1,13 @@
-# Password Generator
+# Rock Paper Scissors Game
 
-Generates a secure random password with letters, digits, and symbols.
+A simple game where you play against the computer.
 
 ## Features
-- Choose custom password length
-- Uses uppercase, lowercase, numbers, and symbols
+- Rock, paper, scissors logic
+- Random computer move
+- Loop until user exits
 
 ## How to Run
 ```
-python password_generator.py
+python rock_paper_scissors.py
 ```
